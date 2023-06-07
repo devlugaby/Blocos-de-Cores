@@ -1,0 +1,19 @@
+.cabecalh0{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-align:center;
+    font-size:medium;
+    background-color:rgb(252, 252, 252);
+}
+
+.container{
+    display:flex;
+    align-items: flex-start;
+    justify-content:space-around;
+    font-size: larger;
+}
+
+th{
+    width: 150px;
+    height: 150px;
+}
